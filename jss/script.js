@@ -5,3 +5,6 @@ console.log ('JS OK')
 // chiedi il suo colore preferito
 // Infine scrivi sulla pagina nomecognomecolorepreferito21
 
+const nome = prompt('Inserire Nome');
+
+console.log(nome);
