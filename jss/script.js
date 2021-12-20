@@ -8,3 +8,7 @@ console.log ('JS OK')
 const nome = prompt('Inserire Nome');
 
 console.log(nome);
+
+const cognome = prompt('Inserire Cognome');
+
+console.log(cognome);
